@@ -14,7 +14,7 @@ layout: rbmht-blogentry-layout
 
 We all know it. When dealing with application development we often face the same problem again and again.
 When a problem comes up for the first time you study it, think about a proper solution, search for fitting technology
-and build the solution which fits best. On the second time, you reuse some code (by copy-paste), debug it and make it
+and build the solution which fits best. For the second time, you reuse some code (by copy-paste), debug it and make it
 fitting. Latest at the third time this approach... sucks. Copy-pasting often produces sub-optimal results and
 (which is even worse) causes bugs that you have to find and fix. Additionally this enlarges the codebase you have to
 maintain and forces you to develop and test new features for all the applications individually. 
